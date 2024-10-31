@@ -34,7 +34,7 @@ This project converts particle position data from a CSV file to a LIGGGHTS-compa
 
 4. Install dependencies:
    ```bash
-   pip install pandas==2.2.3
+   pip install -r requirements.txt
    ```
 
 ## Usage
